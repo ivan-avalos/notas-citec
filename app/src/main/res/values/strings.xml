@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NotasCITEC</string>
+
+    <!-- General -->
+    <string name="msg_empty_field">Un campo está vacío</string>
+    <string name="title_delete">Borrar</string>
+    <string name="msg_delete">¿Seguro que desea borrar la nota?</string>
+    <string name="label_cancel">Cancelar</string>
+
+    <!-- Login -->
+    <string name="login_label">Iniciar Sesión</string>
+    <string name="email_label">Correo electrónico</string>
+    <string name="password_label">Contraseña</string>
+
+    <!-- Register -->
+    <string name="register_label">Registrarse</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- Menu actions -->
+    <string name="label_logout">Cerrar sesión</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <!-- Add/Edit -->
+    <string name="hint_title">Título</string>
+    <string name="hint_body">Cuerpo</string>
+    <string name="ic_add">Agregar</string>
+    <string name="title_activity_view">ViewActivity</string>
+</resources>
